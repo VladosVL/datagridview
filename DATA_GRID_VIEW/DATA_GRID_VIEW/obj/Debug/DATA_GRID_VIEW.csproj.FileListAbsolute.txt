@@ -1,0 +1,10 @@
+C:\Users\123\source\repos\DATA_GRID_VIEW\DATA_GRID_VIEW\bin\Debug\BAZA.mdb
+C:\Users\123\source\repos\DATA_GRID_VIEW\DATA_GRID_VIEW\bin\Debug\DATA_GRID_VIEW.exe.config
+C:\Users\123\source\repos\DATA_GRID_VIEW\DATA_GRID_VIEW\bin\Debug\DATA_GRID_VIEW.exe
+C:\Users\123\source\repos\DATA_GRID_VIEW\DATA_GRID_VIEW\bin\Debug\DATA_GRID_VIEW.pdb
+C:\Users\123\source\repos\DATA_GRID_VIEW\DATA_GRID_VIEW\obj\Debug\DATA_GRID_VIEW.csprojAssemblyReference.cache
+C:\Users\123\source\repos\DATA_GRID_VIEW\DATA_GRID_VIEW\obj\Debug\DATA_GRID_VIEW.Form1.resources
+C:\Users\123\source\repos\DATA_GRID_VIEW\DATA_GRID_VIEW\obj\Debug\DATA_GRID_VIEW.Properties.Resources.resources
+C:\Users\123\source\repos\DATA_GRID_VIEW\DATA_GRID_VIEW\obj\Debug\DATA_GRID_VIEW.csproj.GenerateResource.cache
+C:\Users\123\source\repos\DATA_GRID_VIEW\DATA_GRID_VIEW\obj\Debug\DATA_GRID_VIEW.exe
+C:\Users\123\source\repos\DATA_GRID_VIEW\DATA_GRID_VIEW\obj\Debug\DATA_GRID_VIEW.pdb
